@@ -1,1 +1,1 @@
-![screen1](screen1.png)
+![screen1](screen/screen1.png)
